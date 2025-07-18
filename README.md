@@ -134,7 +134,7 @@
 ## 🏆 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Laila-M-Shawky&show_icons=true&theme=onedark" 
        width="400" height="220"/>
