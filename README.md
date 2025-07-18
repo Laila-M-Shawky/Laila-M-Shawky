@@ -52,6 +52,15 @@
 <table>
   <tr valign="top">
     <td width="33%" align="left">
+      <h3><a href="https://github.com/Laila-M-Shawky/Game-Rental-Database-Management-System">🎮 Game Rental DBMS</a></h3>
+      <p align="justify">Complete DBMS for video game rentals using SQL Server and C#, including user & vendor management with GUI.</p>
+      <p>
+        <img src="https://img.shields.io/badge/-C%23-68217A?style=flat&logo=c-sharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
+        <img src="https://img.shields.io/badge/-GUI-4682B4?style=flat" />
+      </p>
+    </td>
+    <td width="33%" align="left">
       <h3><a href="https://github.com/Laila-M-Shawky/Uber-Ride-Requests-Analysis-and-Clustering">🚖 Uber Ride Clustering</a></h3>
       <p align="justify">Analyzed Uber request data and visualized demand patterns, trip duration, and cancellations.</p>
       <p>
@@ -69,15 +78,6 @@
         <img src="https://img.shields.io/badge/-Python-181717?style=flat&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/-Tkinter-FFB300?style=flat" />
         <img src="https://img.shields.io/badge/-NLP-2E8B57?style=flat" />
-      </p>
-    </td>
-    <td width="33%" align="left">
-      <h3><a href="https://github.com/Laila-M-Shawky/Game-Rental-Database-Management-System">🎮 Game Rental DBMS</a></h3>
-      <p align="justify">Complete DBMS for video game rentals using SQL Server and C#, including user & vendor management with GUI.</p>
-      <p>
-        <img src="https://img.shields.io/badge/-C%23-68217A?style=flat&logo=c-sharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
-        <img src="https://img.shields.io/badge/-GUI-4682B4?style=flat" />
       </p>
     </td>
   </tr>
