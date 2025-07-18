@@ -49,11 +49,6 @@
 </p>
 
 ## 📌 Featured Projects
-
-<h2>📌 Featured Projects</h2>
-
-<h2>📌 Featured Projects</h2>
-
 <table>
   <tr valign="top">
     <td width="33%" align="left">
