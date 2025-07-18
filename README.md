@@ -33,11 +33,17 @@
 
 <!-- Giphs-->
 <p align="center">
-  <table>
+  <table width="100%">
     <tr>
-      <td><img src="giphy.gif" width="309"/></td>
-      <td><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdkcG1oOW5ma256aDFxbjZlNThhY3BqZGE4ZjZobXZvNW16MWZ2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" width="309"/></td>
-      <td><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW9kd3hnaGxlNmxveHEyc2RoOWplNmZucDI1eGNscjFnOHp6YXdsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vR85PnGsBwu1PFK/giphy.gif" width="309"/></td>
+      <td width="33%" align="center">
+        <img src="giphy.gif" width="100%" />
+      </td>
+      <td width="33%" align="center">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdkcG1oOW5ma256aDFxbjZlNThhY3BqZGE4ZjZobXZvNW16MWZ2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" width="100%" />
+      </td>
+      <td width="33%" align="center">
+        <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW9kd3hnaGxlNmxveHEyc2RoOWplNmZucDI1eGNscjFnOHp6YXdsNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vR85PnGsBwu1PFK/giphy.gif" width="100%" />
+      </td>
     </tr>
   </table>
 </p>
@@ -121,30 +127,15 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📊 GitHub Stats:
-<p align="center">
-
-  <!-- GitHub Stats -->
-  <a href="https://github.com/Laila-M-Shawky">
-    <img src="https://github-readme-stats.vercel.app/api?username=Laila-M-Shawky&show_icons=true&theme=onedark" 
-         alt="GitHub Stats" 
-         width="300" />
-  </a>
-
-  <!-- GitHub Streak -->
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Laila-M-Shawky&theme=onedark" 
-         alt="GitHub Streak" 
-         width="300" />
-  </a>
-
-  <!-- Top Languages - Donut Layout -->
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laila-M-Shawky&layout=donut&theme=onedark&hide_progress=true" 
-         alt="Top Languages Donut" 
-         width="250" />
-  </a>
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Laila-M-Shawky&show_icons=true&theme=onedark" 
+       width="400" height="220"/>
+  <img src="https://streak-stats.demolab.com?user=Laila-M-Shawky&theme=onedark" 
+       width="400" height="220"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laila-M-Shawky&layout=donut&theme=onedark" 
+       width="300" height="220"/>
 </p>
+
 
 
 ## 🐍 GitHub Contribution Snake
