@@ -146,7 +146,7 @@
 
 
 
-## 🐍 GitHub Contribution Snake
+## 🐍 GitHub Activity Snake
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Laila-M-Shawky/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -156,5 +156,5 @@
 </p>
 
 
-## 📈 GitHub Activity Graph
+## 📈 GitHub Contribution Graph
 [![Laila's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Laila-M-Shawky&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
