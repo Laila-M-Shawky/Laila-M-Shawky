@@ -25,7 +25,7 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=laila-m-shawky&label=Profile%20views&color=0e75b6&style=flat-square" />
-  <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dmadushadhanushka&longCache=true"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dlaila-m-shawky&longCache=true"/>
   <a href="https://www.linkedin.com/in/laila-m-shawky/" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-Laila_Shawky-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
