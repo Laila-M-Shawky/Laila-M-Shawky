@@ -53,7 +53,7 @@
 <table>
   <tr valign="top">
     <td width="33%" align="left">
-      <h3><a href="https://github.com/Laila-M-Shawky/Game-Rental-Database-Management-System">🎮 Game Rental DBMS</a></h3>
+      <h3><a href="https://github.com/Laila-M-Shawky/Game-Rental-Database-Management-System">Game Rental DBMS</a></h3>
       <p align="justify">Complete DBMS for video game rentals using SQL Server and C#, including user & vendor management with GUI.</p>
       <p>
         <img src="https://img.shields.io/badge/-C%23-68217A?style=flat&logo=c-sharp&logoColor=white" />
@@ -65,7 +65,7 @@
       </p>
     </td>
     <td width="33%" align="left">
-      <h3><a href="https://github.com/Laila-M-Shawky/Uber-Ride-Requests-Analysis-and-Clustering">🚖 Uber Ride Clustering</a></h3>
+      <h3><a href="https://github.com/Laila-M-Shawky/Uber-Ride-Requests-Analysis-and-Clustering">Uber Ride Clustering</a></h3>
       <p align="justify">Analyzed Uber request data and visualized demand patterns, trip duration, and cancellations.</p>
       <p>
         <img src="https://img.shields.io/badge/-Python-181717?style=flat&logo=python&logoColor=white" />
@@ -77,7 +77,7 @@
       </p>
     </td>
     <td width="33%" align="left">
-      <h3><a href="https://github.com/Laila-M-Shawky/Speech-to-text-converter">🗣️ Speech-to-Text App</a></h3>
+      <h3><a href="https://github.com/Laila-M-Shawky/Speech-to-text-converter">Speech-to-Text App</a></h3>
       <p align="justify">Standalone desktop app using Python and Tkinter to convert speech to text, summarize it, and play it back.</p>
       <p>
         <img src="https://img.shields.io/badge/-Python-181717?style=flat&logo=python&logoColor=white" />
@@ -107,9 +107,9 @@
 ## ⚙️ Languages & Tools
 <table>
   <tr>
-    <th>📊 Data Analysis</th>
-    <th>🤖 Data Science & AI</th>
-    <th>💻 Programming Languages</th>
+    <th>Data Analysis</th>
+    <th>Data Science & AI</th>
+    <th>Programming Languages</th>
   </tr>
   <tr>
     <td>
