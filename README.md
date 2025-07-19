@@ -69,6 +69,7 @@
         <img src="https://img.shields.io/badge/-Seaborn-9E9E9E?style=flat" />
         <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat" />
         <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
       </p>
     </td>
     <td width="33%" align="left">
