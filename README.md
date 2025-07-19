@@ -58,9 +58,6 @@
         <img src="https://img.shields.io/badge/-C%23-68217A?style=flat&logo=c-sharp&logoColor=white" />
         <img src="https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
         <img src="https://img.shields.io/badge/-GUI-4682B4?style=flat" />
-<img src="https://img.shields.io/badge/-SpeechRecognition-3776AB?style=flat" />
-
-<img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
       </p>
     </td>
     <td width="33%" align="left">
@@ -82,6 +79,9 @@
         <img src="https://img.shields.io/badge/-Python-181717?style=flat&logo=python&logoColor=white" />
         <img src="https://img.shields.io/badge/-Tkinter-FFB300?style=flat" />
         <img src="https://img.shields.io/badge/-NLP-2E8B57?style=flat" />
+<img src="https://img.shields.io/badge/-SpeechRecognition-3776AB?style=flat" />
+
+<img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
       </p>
     </td>
   </tr>
