@@ -1,5 +1,5 @@
 <h1 align="center">Hello world <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" width="30"/> , I'm Laila Shawky👩‍💻</h1>
-<h3 align="center">A Data Analyst from Egypt 🇪🇬, exploring data-driven insights with curiosity and code.</h3>
+<h3 align="center">A passionate data analyst about applying data and AI tools to build practical solutions.</h3>
 
 <!--Connections -->
 </p>
@@ -95,12 +95,12 @@
 
 
 ## 👩‍💻 About Me
-- 🎓 Data Science student at Cairo University  
-- 💻 I use Python, SQL, Power BI, and Tableau  
-- 📊 I enjoy finding insights from data  
-- 🤝 I love team projects and solving real problems  
-- 🚀 Built dashboards, AI tools & market reports  
-- 🌍 Passionate about data for sustainability and impact
+- 🎓 Data Science student at Cairo University, passionate about applying data and AI tools for practical solutions.
+- 💻 Skilled in data analysis and building dashboards using SQL, Python, Power BI, and Tableau.   
+- 📊 Contributed to AI and data projects, including sales dashboards and a speech-to-text model.   
+- 🤝 Completed a data analysis internship at Technocolabs, building predictive models and dashboards. 
+- 🚀 Improved data accuracy by 25% through cleaning and feature engineering, boosting model reliability.   
+- 🌍 Eager to apply these skills to real-world challenges in sustainability, business, and community development.
 
 
 ## ⚙️ Languages & Tools
