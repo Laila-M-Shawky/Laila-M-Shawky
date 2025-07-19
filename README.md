@@ -96,12 +96,12 @@
 
 
 ## 👩‍💻 About Me
-- 🎓 Data Science student at Cairo University, passionate about applying data and AI tools for practical solutions.
-- 💻 Skilled in data analysis and building dashboards using SQL, Python, Power BI, and Tableau.   
-- 📊 Contributed to AI and data projects, including sales dashboards and a speech-to-text model.   
-- 🤝 Completed a data analysis internship at Technocolabs, building predictive models and dashboards. 
-- 🚀 Improved data accuracy by 25% through cleaning and feature engineering, boosting model reliability.   
-- 🌍 Eager to apply these skills to real-world challenges in sustainability, business, and community development.
+-  Data Science student at Cairo University, passionate about applying data and AI tools for practical solutions.
+-  Skilled in data analysis and building dashboards using SQL, Python, Power BI, and Tableau.   
+-  Contributed to AI and data projects, including sales dashboards and a speech-to-text model.   
+-  Completed a data analysis internship at Technocolabs, building predictive models and dashboards. 
+-  Improved data accuracy by 25% through cleaning and feature engineering, boosting model reliability.   
+-  Eager to apply these skills to real-world challenges in sustainability, business, and community development.
 
 
 ## ⚙️ Languages & Tools
