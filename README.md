@@ -58,6 +58,9 @@
         <img src="https://img.shields.io/badge/-C%23-68217A?style=flat&logo=c-sharp&logoColor=white" />
         <img src="https://img.shields.io/badge/-SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white" />
         <img src="https://img.shields.io/badge/-GUI-4682B4?style=flat" />
+<img src="https://img.shields.io/badge/-Conceptual_ERD-6A5ACD?style=flat&logo=diagram&logoColor=white" />
+<img src="https://img.shields.io/badge/-Physical_ERD-FF8C00?style=flat&logo=database&logoColor=white" />
+<img src="https://img.shields.io/badge/-Schema_Diagram-20B2AA?style=flat&logo=simpleicons&logoColor=white" />
       </p>
     </td>
     <td width="33%" align="left">
