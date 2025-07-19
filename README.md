@@ -86,7 +86,7 @@
 <img src="https://img.shields.io/badge/-SpeechRecognition-3776AB?style=flat" />
 
 <img src="https://img.shields.io/badge/-Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
-img src="https://img.shields.io/badge/-GUI-4682B4?style=flat" />
+<img src="https://img.shields.io/badge/-GUI-4682B4?style=flat" />
       </p>
     </td>
   </tr>
