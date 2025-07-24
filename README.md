@@ -149,16 +149,6 @@
 
 
 ## 📊 GitHub Stats
-<!-- <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Laila-M-Shawky&show_icons=true&theme=onedark" 
-       width="400" height="220"/>
-  <img src="https://streak-stats.demolab.com?user=Laila-M-Shawky&theme=onedark" 
-       width="400" height="220"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laila-M-Shawky&layout=donut&theme=onedark" 
-       width="300" height="220"/>
-    <img src="https://leetcard.jacoblin.cool/Laila-M-Shawky?ext=heatmap&theme=one-dark" alt="LeetCode Stats for Laila-M-Shawky">
-
-</p> -->
 <p align="center">
   <table width="100%">
     <tr>
@@ -166,7 +156,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=Laila-M-Shawky&show_icons=true&theme=onedark" width="100%" />
       </td>
       <td width="50%" align="center">
-        <img src="https://streak-stats.demolab.com?user=Laila-M-Shawky&theme=onedark" width="100%" />
+        <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Laila-M-Shawky&theme=onedark" alt="GitHub Streak" /></a>
       </td>
     </tr>
     <tr>
