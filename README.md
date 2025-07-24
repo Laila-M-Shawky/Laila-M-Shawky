@@ -194,4 +194,9 @@
 
 
 ## 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Laila-M-Shawky&theme=onedark" alt="GitHub Profile Summary"/>
+</p>
+
 [![Laila's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Laila-M-Shawky&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
