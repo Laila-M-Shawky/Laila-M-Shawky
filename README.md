@@ -1,6 +1,8 @@
 <h1 align="center">Hello world <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.webp" width="30"/> , I'm Laila Shawky👩‍💻</h1>
 <h3 align="center">Insightful and results-oriented data analyst with a proactive approach to uncovering trends and optimizing performance through strategic data use.</h3>
 
+
+
 <!--Connections -->
 </p>
 <p align="center">
