@@ -38,13 +38,13 @@
   <table width="100%">
     <tr>
       <td width="33%" align="center">
+        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZrMmViYTNlaTQwbTg4Yms5ZzhudjBrbnVhZWxyOWRycHo4bGExZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVzfcqCDSb7zCynOp/giphy.gif" width="100%" />
+      </td>
+      <td width="33%" align="center">
         <img src="giphy.gif" width="100%" />
       </td>
       <td width="33%" align="center">
         <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdkcG1oOW5ma256aDFxbjZlNThhY3BqZGE4ZjZobXZvNW16MWZ2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" width="100%" />
-      </td>
-      <td width="33%" align="center">
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGZrMmViYTNlaTQwbTg4Yms5ZzhudjBrbnVhZWxyOWRycHo4bGExZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FoVzfcqCDSb7zCynOp/giphy.gif" width="100%" />
       </td>
     </tr>
   </table>
