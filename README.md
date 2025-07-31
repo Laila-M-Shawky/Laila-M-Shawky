@@ -44,7 +44,7 @@
         <img src="giphy.gif" width="100%" />
       </td>
       <td width="33%" align="center">
-        <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmdkcG1oOW5ma256aDFxbjZlNThhY3BqZGE4ZjZobXZvNW16MWZ2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JWuBH9rCO2uZuHBFpm/giphy.gif" width="100%" />
+        <img src="Analyze Most Excellent GIF by Giflytics.gif" width="100%" />
       </td>
     </tr>
   </table>
